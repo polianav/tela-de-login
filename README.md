@@ -15,3 +15,7 @@ Este projeto é uma interface de login e cadastro com animações dinâmicas e d
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+
+---
+## Preview:
+![Tela de Login](pictures/Screenshot%202025-05-05%20132816.png)
