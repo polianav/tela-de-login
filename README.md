@@ -18,4 +18,4 @@ Este projeto é uma interface de login e cadastro com animações dinâmicas e d
 
 ---
 ## Preview:
-![Tela de Login](pictures/Screenshot%202025-05-05%20132816.png)
+![Tela de Login](Screenshot%202025-05-07%20214708.png)
